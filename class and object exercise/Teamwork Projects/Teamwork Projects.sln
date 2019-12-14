@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29306.81
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Teamwork Projects", "Teamwork Projects\Teamwork Projects.csproj", "{545BEB8B-7C36-42A9-8F22-2D95C443B2AE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{545BEB8B-7C36-42A9-8F22-2D95C443B2AE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{545BEB8B-7C36-42A9-8F22-2D95C443B2AE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{545BEB8B-7C36-42A9-8F22-2D95C443B2AE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{545BEB8B-7C36-42A9-8F22-2D95C443B2AE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {92A80D1B-DDD6-43E0-9B7C-9078814D4EBD}
+	EndGlobalSection
+EndGlobal

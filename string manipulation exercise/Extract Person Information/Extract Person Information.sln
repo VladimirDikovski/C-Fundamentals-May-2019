@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29306.81
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Extract Person Information", "Extract Person Information\Extract Person Information.csproj", "{C2F82174-819B-431B-B4B8-4C1B5A40C804}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C2F82174-819B-431B-B4B8-4C1B5A40C804}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C2F82174-819B-431B-B4B8-4C1B5A40C804}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C2F82174-819B-431B-B4B8-4C1B5A40C804}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C2F82174-819B-431B-B4B8-4C1B5A40C804}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B2AF7D55-664B-4639-B058-A6CC2DA97AC7}
+	EndGlobalSection
+EndGlobal

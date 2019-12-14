@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29306.81
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tribonacci Sequence", "Tribonacci Sequence\Tribonacci Sequence.csproj", "{FE0C245F-2302-40EC-A7B7-6F7E6C6C5667}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FE0C245F-2302-40EC-A7B7-6F7E6C6C5667}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FE0C245F-2302-40EC-A7B7-6F7E6C6C5667}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FE0C245F-2302-40EC-A7B7-6F7E6C6C5667}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FE0C245F-2302-40EC-A7B7-6F7E6C6C5667}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5A443C7C-6B24-48C6-9350-E1B8AB8D9931}
+	EndGlobalSection
+EndGlobal

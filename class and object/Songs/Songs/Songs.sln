@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29306.81
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Songs", "Songs\Songs.csproj", "{3BFDB432-1FF4-4B09-B421-BAD474EF337B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3BFDB432-1FF4-4B09-B421-BAD474EF337B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3BFDB432-1FF4-4B09-B421-BAD474EF337B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3BFDB432-1FF4-4B09-B421-BAD474EF337B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3BFDB432-1FF4-4B09-B421-BAD474EF337B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F30BEB9F-03B8-4553-96A3-81679468694E}
+	EndGlobalSection
+EndGlobal
